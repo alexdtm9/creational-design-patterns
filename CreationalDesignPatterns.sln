@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{D69D4B86-D9CC-413B-9693-08B521317794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{33FF8FF0-58A6-4003-89BB-88F9621EEAF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D69D4B86-D9CC-413B-9693-08B521317794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69D4B86-D9CC-413B-9693-08B521317794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69D4B86-D9CC-413B-9693-08B521317794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69D4B86-D9CC-413B-9693-08B521317794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33FF8FF0-58A6-4003-89BB-88F9621EEAF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33FF8FF0-58A6-4003-89BB-88F9621EEAF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33FF8FF0-58A6-4003-89BB-88F9621EEAF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33FF8FF0-58A6-4003-89BB-88F9621EEAF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
